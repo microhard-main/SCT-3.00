@@ -15,11 +15,11 @@
 1040 PRINT " "
 1050 PRINT " "
 1060 PRINT " "
-1070 PRINT "       €€€€€€€€€€€€€€€€€€€€€€€€€€      "
-1080 PRINT "       €      Beta Version      €      "
-1090 PRINT "       €(C) microhard (9/7/2025)€      "
-1100 PRINT "       €  All rights reserved.  €      "
-1110 PRINT "       €€€€€€€€€€€€€€€€€€€€€€€€€€      "
+1070 PRINT "       √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ      "
+1080 PRINT "       √õ      Beta Version      √õ      "
+1090 PRINT "       √õ(C) microhard (9/7/2025)√õ      "
+1100 PRINT "       √õ  All rights reserved.  √õ      "
+1110 PRINT "       √õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ√õ      "
 1120 PRINT " "
 1130 PRINT "*** NO TESTERS EXECUTED IN DEVELOPING.  I WAS THE SOLO DEVELOPER. ***"
 1140 PRINT " "
@@ -229,4 +229,4 @@
 7040 PRINT "Press ENTER to continue"
 7050 INPUT CC$
 7500 RETURN
-
+8000 REM lines in the intro were changed to √õ
